@@ -1,1 +1,1 @@
-# Simple Mail Transfer Protocol server example in python
+# Simple Mail Transfer Protocol client example in python
